@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+psycopg2-binary
+pgvector
+python-dotenv
+sentence-transformers
+groq
+pypdf
+langchain-text-splitters
+python-multipart
+streamlit
+requests
