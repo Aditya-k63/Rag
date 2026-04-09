@@ -10,3 +10,5 @@ langchain-text-splitters
 python-multipart
 streamlit
 requests
+rank-bm25
+numpy
